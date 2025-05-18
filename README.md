@@ -13,3 +13,17 @@ Invalid Login and Password
 ![image](https://github.com/user-attachments/assets/56b34e48-8927-4392-bb61-ce47c8d8173f)
 
 
+## Setup and Installation
+
+1.  **Clone the repository:**
+    
+
+2.  **Install dependencies:**
+    This project requires PyQt6. You can install it using pip:
+    
+    pip install PyQt6
+    
+
+## Running the Application
+
+To run the application, execute the Python script:
