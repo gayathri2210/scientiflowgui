@@ -16,9 +16,11 @@ Invalid Login and Password
 ## Setup and Installation
 
 1.  **Clone the repository:**
+
+   https://github.com/gayathri2210/scientiflowgui.git
     
 
-2.  **Install dependencies:**
+3.  **Install dependencies:**
     This project requires PyQt6. You can install it using pip:
     
     pip install PyQt6
